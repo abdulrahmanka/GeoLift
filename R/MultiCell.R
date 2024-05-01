@@ -96,7 +96,7 @@
 #'
 #' @order 1
 #' @export
-MultiCellMarketSelection <- function(data,
+MultiCellMarketSelection_V2 <- function(data,
                                      k = 2,
                                      sampling_method = "systematic",
                                      top_choices = 10,
